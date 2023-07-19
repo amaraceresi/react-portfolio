@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.75f1b335.css",
+    "main.js": "/react-portfolio/static/js/main.7286dde5.js",
+    "static/media/headshot.png": "/react-portfolio/static/media/headshot.c9fba137ad55bbf6655f.png",
+    "static/media/react.svg": "/react-portfolio/static/media/react.83f29a44494a868b01847b2a28cc2600.svg",
+    "static/media/js.svg": "/react-portfolio/static/media/js.a832507c636e41cb897bc52b23603a2c.svg",
+    "static/media/html.svg": "/react-portfolio/static/media/html.f81396ac1d742cc27615f206db61898d.svg",
+    "static/media/hamburger-menu.svg": "/react-portfolio/static/media/hamburger-menu.a86d8ed0854f0ca21b57d743958b8fc1.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/sql.svg": "/react-portfolio/static/media/sql.ddef84e36344b2f1853a56e8ed84010e.svg",
+    "main.75f1b335.css.map": "/react-portfolio/static/css/main.75f1b335.css.map",
+    "main.7286dde5.js.map": "/react-portfolio/static/js/main.7286dde5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f1b335.css",
+    "static/js/main.7286dde5.js"
+  ]
+}
