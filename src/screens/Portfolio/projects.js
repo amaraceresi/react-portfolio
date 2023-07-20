@@ -24,10 +24,4 @@ export const projects = [
     image: "https://media.istockphoto.com/id/477110708/photo/weather-forecast.jpg?s=170667a&w=0&k=20&c=zcuA4H4QGfLDd18B5zxHncXBu9RQGdBdu3AW0jJQeQU=",
     url: "https://amaraceresi.github.io/weather-dashboard/",
   },
-    {
-    title: "Weather Dashboard",
-    description: "Weather app that displays the current weather in your city.",
-    image: "https://media.istockphoto.com/id/477110708/photo/weather-forecast.jpg?s=170667a&w=0&k=20&c=zcuA4H4QGfLDd18B5zxHncXBu9RQGdBdu3AW0jJQeQU=",
-    url: "https://amaraceresi.github.io/weather-dashboard/",
-  },
 ]
