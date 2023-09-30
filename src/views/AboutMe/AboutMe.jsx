@@ -9,7 +9,7 @@ function AboutMe() {
       <div>
         <h1>About Me</h1>
         <p>
-        Hello there! My name is Amara Ceresi, and I am currently immersed in the enriching and challenging experience of studying Full Stack Development at Vanderbilt University's Boot Camp. With a strong foundation in front-end and back-end technologies, I'm passionate about using code to create user-friendly and responsive web applications.        
+        {/* Hello there! My name is Amara Ceresi, and I am currently immersed in the enriching and challenging experience of studying Full Stack Development at Vanderbilt University's Boot Camp. With a strong foundation in front-end and back-end technologies, I'm passionate about using code to create user-friendly and responsive web applications.         */}
         </p>
       </div>
       <Footer />
